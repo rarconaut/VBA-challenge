@@ -7,6 +7,6 @@ It searches through years of daily stock data, and outputs a new table summarizi
 - The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 - and, The total stock volume of the stock.
 
-The STockCrawler script also uses conditional formatting to highlight positive changes in stock prices in green and negative changes in red.
+The StockCrawler script also uses conditional formatting to highlight positive changes in stock prices in green and negative changes in red.
 
 Finally, it also calculates the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" on every worksheet, only running the VBA script once. 
